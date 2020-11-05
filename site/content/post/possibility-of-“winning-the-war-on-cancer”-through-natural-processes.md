@@ -6,7 +6,7 @@ image: img/about-direct-sourcing.jpg
 ---
 <!--StartFragment-->
 
-Cancer is the most common terminal disease worldwide and its reach is extending each year. [Most recent papers from WHO](https://edition.cnn.com/2014/02/04/health/who-world-cancer-report/index.html) show that number of cancer patients will rise from 14 million annually in 2012 to 22 million within two decades. Over the same period, cancer deaths are predicted to [rise from 8.2 million a year to 13 million.](https://edition.cnn.com/2014/02/04/health/who-world-cancer-report/index.html) ***The treatment and medicine are too expensive for lower-income individuals and people of third world countries.** A natural cure would be a relief for so many of these patients suffering from cancer.* In *[Winning the War on Cancer](https://www.goodreads.com/book/show/38312881-winning-the-war-on-cancer)*, Sylvie Beljanski talks about finding natural cures for cancer from plant extracts.
+Cancer is the most common terminal disease worldwide and its reach is extending each year. [Most recent papers from WHO](https://edition.cnn.com/2014/02/04/health/who-world-cancer-report/index.html) show that number of cancer patients will rise from 14 million annually in 2012 to 22 million within two decades. Over the same period, cancer deaths are predicted to [rise from 8.2 million a year to 13 million.](https://edition.cnn.com/2014/02/04/health/who-world-cancer-report/index.html) **\*The treatment and medicine are too expensive for lower-income individuals and people of third world countries.** A natural cure would be a relief for so many of these patients suffering from cancer. *In* [Winning the War on Cancer](https://www.goodreads.com/book/show/38312881-winning-the-war-on-cancer)*, Sylvie Beljanski talks about finding natural cures for cancer from plant extracts.
 
 **I have lost three relatives close to my heart to various types of cancer.** No one I know has survived this disease, so the idea that the disease that cost them their lives could be cured so easily feels surreal to me. When I first picked this book up to read, I wasn’t sure about what to expect. I am someone who doesn’t believe in alternative medicine, I prefer to trust in good *packaging* of the products from big pharmaceutical companies, with famous researches that follow. *Even though ayurvedic treatment or homeopathic medicine is quite common in my community, I always give them a badge of disapproval.*
 
@@ -16,7 +16,7 @@ But after reading the book, I couldn’t help doing some digging to find how log
 
 Sylvie Beljanski is the Vice-president of the [Beljanski Foundation](https://www.beljanski.org/engl/), which was established in 1999 to help spread the awareness of treating cancer through natural means. Sylvie is the daughter of a French researcher from the Pasteur Institute, Dr. Mirko Beljanski. Ever since she was little, she saw her father help cancer patients get better by prescribing natural medicine.
 
-*He had discovered that **DNA destabilization is the primary cause of cancer.*** Then, he spent most of his life trying to find a natural remedy to take the place of expensive cancer treatment. He was successful in finding plant extracts that can completely eradicate cancer stem cells in a matter of hours, without being toxic to the healthy cells! Even though I find it surreal, I have no basis for calling bullshit as Sylvie provides enough logical explanations and citations in the book.
+\*He had discovered that **DNA destabilization is the primary cause of cancer.*** Then, he spent most of his life trying to find a natural remedy to take the place of expensive cancer treatment. He was successful in finding plant extracts that can completely eradicate cancer stem cells in a matter of hours, without being toxic to the healthy cells! Even though I find it surreal, I have no basis for calling bullshit as Sylvie provides enough logical explanations and citations in the book.
 
 <!--StartFragment-->
 
@@ -35,7 +35,7 @@ His research showed that the plant extracts **have the capability to completely
 
 * ### **Plant extracts in healing pancreatic and ovarian cancer**
 
-***Pao pereira** extract and the **Rauwolfia vomitoria** extract, worked beautifully against **pancreatic cancer stem cells**, as well as **ovarian cancer stem cells**. Pancreatic and ovarian cancers are very difficult to treat because they are usually diagnosed very late, and the tumor cells generally become resistant to the drugs chosen for treatment.*
+**\*Pao pereira** extract and the **Rauwolfia vomitoria** extract, worked beautifully against **pancreatic cancer stem cells**, as well as **ovarian cancer stem cells**. Pancreatic and ovarian cancers are very difficult to treat because they are usually diagnosed very late, and the tumor cells generally become resistant to the drugs chosen for treatment.*
 
 * ### **Natural extracts that can work side by side with conventional medicine**
 
@@ -70,3 +70,5 @@ As someone who had no prior knowledge about cancer, its causes, or treatment, I 
 <!--EndFragment-->
 
 <!--EndFragment-->
+
+*Originally published in [In Fitness And In Health](https://medium.com/in-fitness-and-in-health/possibility-of-winning-the-war-on-cancer-through-natural-processes-95de16a3d50d?source=friends_link&sk=b5f665db576ff6266a24ce360f6b7f29).*
