@@ -1,19 +1,16 @@
 ---
-title: Nisa's Homepage
-subtitle: Support sustainable farming while enjoying a cup
+title: NUSRAT NISA
+subtitle: Writer | Reader | Editor
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Who Am I?
+  text: I am Nusrat, a non-fiction and fiction writer based in Bangladesh. For as
+    long as I had been able, I read and dreamed about one day becoming someone
+    who writes about things that matter...and also things that don't make much
+    change.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Content
+  text: "Here "
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
