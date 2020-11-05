@@ -65,10 +65,10 @@ But we choose to stay ignorant and don’t want to give a chance to something th
 
 As someone who had no prior knowledge about cancer, its causes, or treatment, I am not someone to state what is right or what is wrong. But this book made me want to believe in a natural cure for cancer.
 
-<!--EndFragment-->
-
-<!--EndFragment-->
-
-<!--EndFragment-->
-
 *Originally published in [In Fitness And In Health](https://medium.com/in-fitness-and-in-health/possibility-of-winning-the-war-on-cancer-through-natural-processes-95de16a3d50d?source=friends_link&sk=b5f665db576ff6266a24ce360f6b7f29).*
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
+<!--EndFragment-->
