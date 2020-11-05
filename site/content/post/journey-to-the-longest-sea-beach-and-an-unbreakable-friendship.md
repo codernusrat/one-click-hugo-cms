@@ -72,6 +72,8 @@ We started our journey back the next evening as the sun was setting. My parents 
 
 <br>
 
+*Nusrat Nisa*
+
 ***Originally published in [Without Borders](https://medium.com/without-borders/journey-to-the-longest-sea-beach-and-an-unbreakable-friendship-f69646928cd5?source=friends_link&sk=6b8ad693e315e4f06c192f2e31589548).***
 
 <!--EndFragment-->
